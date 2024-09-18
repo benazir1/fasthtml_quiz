@@ -34,5 +34,5 @@ Ensure you have two tables created in your Supabase database(quiz,quiz_results):
 quiz with columns: id, question, choice_a, choice_b, choice_c, choice_d, correct_choice.
 quiz_results with columns: id, name, score, timestamp.
 
-### ## deployment
+##### Deployment
 [Click me to see the output](https://fasthtml-quiz-29bf.vercel.app/)
