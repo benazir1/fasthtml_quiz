@@ -12,7 +12,7 @@ This is a Fasthtml-based quiz application that allows users to take a quiz, subm
 
 ## Prerequisites
 
-- Python 3.11 or later
+- Python 3.11 
 - `fasthtml`
 - Supabase account
 - PostgreSQL database (used by Supabase)
