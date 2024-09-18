@@ -20,7 +20,7 @@ This is a FastAPI-based quiz application that allows users to take a quiz, submi
 - `dotenv` for managing environment variables
   
 ### Install dependencies:
-   pip install fastapi fasthtml supabase-python python-dotenv pytz
+     pip install fastapi fasthtml supabase-python python-dotenv pytz
 
 ### Create a .env file in the root directory of the project with the following content:
     SUPABASE_URL=<your-supabase-url>
@@ -34,4 +34,4 @@ quiz with columns: id, question, choice_a, choice_b, choice_c, choice_d, correct
 quiz_results with columns: id, name, score, timestamp.
 
 ### ## deployment
-[Deployment in versal](https://fasthtml-quiz-29bf.vercel.app/)
+[Click me see the output](https://fasthtml-quiz-29bf.vercel.app/)
