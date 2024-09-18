@@ -1,11 +1,10 @@
-from fastapi import FastAPI, Request, Form
 from fasthtml.common import *
 import os
 from datetime import datetime
 import pytz
 from supabase import create_client, Client
 from dotenv import load_dotenv
-from fastapi.responses import RedirectResponse
+
 
 # Load environment variables
 load_dotenv()
