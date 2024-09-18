@@ -18,6 +18,7 @@ This is a FastAPI-based quiz application that allows users to take a quiz, submi
 - Supabase account
 - PostgreSQL database (used by Supabase)
 - `dotenv` for managing environment variables
+- uvicorn(server)
   
 ### Install dependencies:
      pip install fastapi fasthtml supabase-python python-dotenv pytz
