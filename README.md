@@ -34,4 +34,4 @@ quiz with columns: id, question, choice_a, choice_b, choice_c, choice_d, correct
 quiz_results with columns: id, name, score, timestamp.
 
 ### ## deployment
-[Click me see the output](https://fasthtml-quiz-29bf.vercel.app/)
+[Click me to see the output](https://fasthtml-quiz-29bf.vercel.app/)
